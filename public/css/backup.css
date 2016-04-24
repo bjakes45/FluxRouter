@@ -1,0 +1,26 @@
+.app {
+  font-family: courier, courier-new, monospace;
+}
+.logo {
+  margin-top: -10px;
+}
+.login{
+  background-color: #000000;
+}
+.login-right {
+  margin-top: 85px;
+}
+.welcome{
+  margin-top: 85px;
+  margin-left: 10px;
+  height: 450px;
+}
+.welcome-pic{
+  margin-left: auto;
+  margin-right: auto;
+}
+.signup{
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
